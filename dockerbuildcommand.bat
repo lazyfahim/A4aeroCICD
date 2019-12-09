@@ -1,0 +1,1 @@
+docker build -f "A4aero/Dockerfile" . -t a4aero.com
